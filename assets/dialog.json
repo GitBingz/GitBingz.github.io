@@ -28,40 +28,33 @@
                 "<img src='img/play1.jpg'>",
                 "<img src='img/play2.jpg'>",
                 "<img src='img/play3.jpg'>",
-				
-				"稍等一下🙂",
-                "让我再看一眼你的照片😘",
-                "跟你在一起的每一天📅",
-                "都让我感到十分想念📬",
-                "<img src='img/lucky-me.jpg'>",
-                "想念你做的早餐🍲",
-                "<img src='img/breakfast.jpg'>",
-                "想念跟你一起锻炼🛹",
-                "<img src='img/exercise-together.jpg'>",
-                "想念跟你一起旅游的时候🚂",
-                "<img src='img/travel.jpg'>",
-                "我们的脚印能一起出现🎠",
-                "<img src='img/foot.jpg'>",
-                "永远在一起的誓言💑",
-                "我想再重复一遍😍",
-                "<img src='img/marry-me.png'>",
-                "嫁给我吧💍"
+				"一起拍了好看滴照片",
+				"<img src='img/together1.jpg'>",
+                "<img src='img/together2.jpg'>",
+				"有了自己的小车",
+				"<img src='img/car1.jpg'>",
+				"最最重要的，家里来了一只名叫奶油的小狗！&#128021",
+				"<img src='img/cream1.jpg'>",
+				"小奶油也真是飞速长大了，越来越懂事哩",
+				"<img src='img/cream2.jpg'>",
+				"<img src='img/cream3.jpg'>",
+				"<img src='img/cream4.jpg'>",
+				"这么一看过去的一年里有好多美好的回忆啊",
+				"如果有机会的话，还是想和你一直一直走下去，然后有越来越多的美好回忆。。。"
             ]
         ],
         "responses": [{
-            "content": "我愿意",
+            "content": "看你自个儿表现吧",
             "nextAuthor": ["0001"]
         }]
     }, {
         "id": "0001",
         "details": [
             [
-                "<img src='img/kiss-my-princess.png'>",
-                "宝贝我好开心呀😁",
-                "今后每一天的相见😍",
-                "你都是我的初恋😘",
-                "给你的那些承诺😙",
-                "我都会一一兑现😉"
+                "嗯呐！",
+                "请相信我会拿出120%的努力",
+                "让我们未来的日子越来越幸福",
+                "但愿人长久，千里共婵娟🌹"
             ]
         ]
     }],

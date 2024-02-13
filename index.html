@@ -26,6 +26,11 @@
 		<link rel="preload" href="img/food1.jpg" as="image">
         <link rel="preload" href="img/food2.jpg" as="image">	
         <link rel="preload" href="img/food4.jpg" as="image">
+		<link rel="preload" href="img/car1.jpg" as="image">
+		<link rel="preload" href="img/cream1.jpg" as="image">
+		<link rel="preload" href="img/cream2.jpg" as="image">
+		<link rel="preload" href="img/cream3.jpg" as="image">
+		<link rel="preload" href="img/cream4.jpg" as="image">
     </head>
     <body>
         <div id="mobile" :class="{ 'has-prompt': hasPrompt }">
@@ -76,7 +81,7 @@
                     v-on:click="togglePrompt(true)"
                     :class="{'clickable': !isTyping }">
                     <span v-if="!isTyping">我想说……</span>
-                    <span v-if="isTyping">饼爸爸正在输入中</span>
+                    <span v-if="isTyping">饼哥正在输入中</span>
                 </div>
             </div>
             <div id="prompt-bg" v-on:click="togglePrompt(false)"></div>
